@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "DL-Covid-19-Project"
