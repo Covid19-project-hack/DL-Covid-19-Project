@@ -90,7 +90,7 @@ public class CoronaActivity extends AppCompatActivity {
                     @Override
                     public void onResponse(JSONObject response) {
                         try {
-                            JSONObject jsonObject = response.getJSONObject("Telangana").getJSONObject("districtData");
+                            JSONObject jsonObject = response.getJSONObject("Delhi").getJSONObject("districtData");
                             Log.i("jsonresponse","hi");
                             Iterator iterator = jsonObject.keys();
                             while (iterator.hasNext()) {

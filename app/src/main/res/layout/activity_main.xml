@@ -33,7 +33,7 @@
             android:textSize="15dp"
             android:layout_marginStart="10dp"
             android:textColor="@color/colorBlack"
-            android:text="Telangana Dashboard"
+            android:text="Delhi Dashboard"
             android:layout_toRightOf="@+id/toolbar_icon"
             android:layout_marginLeft="10dp" />
 
